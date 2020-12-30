@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+                  {
+                    "@context": "https://schema.org/",
+                    "@type": "Review",
+                    "reviewBody": "Recenze online automatového kasína <owner>. Kasíno vřele doporučujeme a udělujeme hodnocení <Overall rating * 10 tzn. 9.81 vypíšeme jako 98>.",
+                    "datePublished": "<DATUM VYTVOŘENÍ RECENZE CASINA>",
+                    "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE CASINA>",
+                    "sameAs": "<URL WEBU>",
+                  "itemReviewed": {
+                    "@type": "Organization",
+                    "logo":"<URL FEATURED IMAGE>", 
+                    "name": "<TITLE RECENZE>",
+                    "description": "<VLOŽIT ZDE CONTENT BLOCKS -> CASINO REVIEW -> CONTENT>"
+                  },
+                  "author": {
+                    "@type": "Person",
+                    "name": "Automaty Zdarma"
+                  },
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "<OVERALL RATING * 10 TZN. 9.81 = 98>",
+                    "bestRating": "<TO SAMÉ ČÍSLO>"
+                  },
+                  "publisher": {
+                    "@type": "Organization",
+                    "name": "Automaty-zdarma.com"
+                  }
+                }
+                </script>
