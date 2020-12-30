@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "Article",
+ "headline": "<ARTICLE NAME>",
+ "image": "<FEATURED IMAGE>",
+ "author": "<AUTOR NAME>", 
+  "datePublished": "DATUM PUBLIKOVÁNÍ ČLÁNKU>",
+  "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE ČLÁNKU>",
+  "mainEntityOfPage	": "<URL ČLÁNKU>",
+"publisher": {
+    "@type": "Organization",
+    "name": "Automaty-zdarma.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "<URL LOGA WEBU>"
+    }
+  }
+ }
+</script>
