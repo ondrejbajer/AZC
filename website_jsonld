@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"url": "https://automaty-zdarma.com/",
+		"name": "Automaty-zdarma.com",
+		"description": "Vícce než 4000 automatů online zdarma a reccenze všech online kasín v České republice s licencí MF ČR.",
+		"author": {
+			"@type": "Organization",
+			"name": "Automaty zdarma",
+			"url": "https://automaty-zdarma.com/",
+			"logo": "http://automaty-zdarma.com/wp-content/uploads/automaty2.png",
+			"foundingDate": "2010-11-19T13:06:00+0000"
+		},
+		"publisher": {
+			"@type": "Thing",
+			"name": "Automaty zdarma"
+		},
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": {
+				"@type": "EntryPoint",
+				"urlTemplate": "https://automaty-zdarma.com/search/?s={search_term_string}"
+			},
+			"query-input": {
+				"@type": "PropertyValueSpecification",
+				"valueRequired": "http://schema.org/True",
+				"valueName": "search_term_string"
+			}
+		}
+	}
+</script>
