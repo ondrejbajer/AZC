@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "<jmeno> <projmeni>",
+  "image": "<url image>",
+  "description": "<osobni-informace>",
+  "gender": "Man",
+  "affiliation": {
+        "@type": "Organization",
+        "name": "Univerzita Karlova"     
+      }
+}
+</script>
