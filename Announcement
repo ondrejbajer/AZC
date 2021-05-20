@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "SpecialAnnouncement",
+    "name": "Zákon o hazarních hrách (č. 186/2016 Sb.) a zodpovědné hraní 18+",
+    "text": "Zákon č. 186/2016 Sb. o hazardních hrách. Ministerstvo financí varuje: Účastí na hazardní hře může vzniknout závislost! Účast osob mladších 18 let na hazardní hře je přísně zakázána.",
+    "datePosted": "2016-09-01",
+    "url": "https://www.aspi.cz/products/lawText/1/86652/1/2",
+ 
+    "spatialCoverage": {
+          "type": "AdministrativeArea",
+          "name": "Czech Republic, CZ"
+        }
+}
+</script>
