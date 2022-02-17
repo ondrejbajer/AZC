@@ -9,11 +9,6 @@
                  "applicationCategory":"Game_casino",
                  "image":"<main img automatu>",
                  "contentRating":"Teen",
-                 "brand": 
-                    {
-                     "@type": "Brand",
-                     "name": "<brand automatu>"
-                    },
                  "author":
                     {
                       "@type":"Person",
@@ -23,22 +18,22 @@
                  "review":
                     {
                       "@type": "Review",
-                      "datePublished": "<DATUM VYTVOŘENÍ CPT ScratchCard>",
-                      "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE CPT ScratchCard>",
-                      "commentCount": "<Počet komentářů u losu>",
+                      "datePublished": "<DATUM PUBLIKACE recenze>",
+                      "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE recenze>",
+                      "commentCount": "<Počet komentářů u automatu>",
                       "reviewRating": 
                           {
                             "@type": "Rating",
                             "ratingValue": "<rating>",
                             "bestRating": "100",
                             "worstRating": "0"
-                           },
+                           }
                      },
                      "aggregateRating":
                         {
                           "@type": "AggregateRating",
-                          "ratingValue": "<Hodnocení u hvězdiček>",
-                          "ratingCount": "<Počet hodnocení u hvězdiček>",
+                          "ratingValue": "<rating>",
+                          "ratingCount": "<počet hodnocení>",
                           "bestRating": "100",
                           "worstRating": "0"
           },
