@@ -1,0 +1,53 @@
+<script type="application/ld+json">
+               {
+                 "@context":"https://schema.org",
+                 "@type":"SoftwareApplication",
+                 "name":"<název auotmatu>",
+                 "url":"<url automatu>",
+                 "description":"<celý text recenze>",
+                 "operatingSystem":"Windows, macOS, Android, iOS",
+                 "applicationCategory":"Game_casino",
+                 "image":"<main img automatu>",
+                 "contentRating":"Teen",
+                 "brand": 
+                    {
+                     "@type": "Brand",
+                     "name": "<brand automatu>"
+                    },
+                 "author":
+                    {
+                      "@type":"Person",
+                      "name":"<název autora recenze>",
+                      "url":"url detailu autora"
+                    },
+                 "review":
+                    {
+                      "@type": "Review",
+                      "datePublished": "<DATUM VYTVOŘENÍ CPT ScratchCard>",
+                      "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE CPT ScratchCard>",
+                      "commentCount": "<Počet komentářů u losu>",
+                      "reviewRating": 
+                          {
+                            "@type": "Rating",
+                            "ratingValue": "<rating>",
+                            "bestRating": "100",
+                            "worstRating": "0"
+                           },
+                     },
+                     "aggregateRating":
+                        {
+                          "@type": "AggregateRating",
+                          "ratingValue": "<Hodnocení u hvězdiček>",
+                          "ratingCount": "<Počet hodnocení u hvězdiček>",
+                          "bestRating": "100",
+                          "worstRating": "0"
+          },
+                      "offers":[
+                          {
+                            "@type":"Offer",
+                            "price":"0",
+                            "priceCurrency":"USD",
+                            "availability":"https://schema.org/OnlineOnly"
+                          }]
+                 }
+               </script>
